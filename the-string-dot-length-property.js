@@ -24,7 +24,15 @@ let lengthOne;   // Length of stringOne
 let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
-// Your code here
+// Your code here 
+// Predefined strings
+let stringOne = "Coding Bootcamp";
+let stringTwo = "JavaScript";
+let stringThree = "";
 
+// Assign the length of each string to the corresponding variable
+let lengthOne = stringOne.length;       // Length of "Coding Bootcamp"
+let lengthTwo = stringTwo.length;       // Length of "JavaScript"
+let lengthThree = stringThree.length;   // Length of an empty string
 
 
